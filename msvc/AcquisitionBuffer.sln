@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AcquisitionBufferLib", "AcquisitionBufferLib\AcquisitionBufferLib.vcxproj", "{2350E402-0CB8-47D5-A3E8-9BB1CD5373DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AcquisitionBufferTests", "AcquisitionBufferTests\AcquisitionBufferTests.vcxproj", "{553E6D62-F245-482E-B00D-E42A5CC8E6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2350E402-0CB8-47D5-A3E8-9BB1CD5373DE}.Debug|x64.ActiveCfg = Debug|x64
+		{2350E402-0CB8-47D5-A3E8-9BB1CD5373DE}.Debug|x64.Build.0 = Debug|x64
+		{2350E402-0CB8-47D5-A3E8-9BB1CD5373DE}.Release|x64.ActiveCfg = Release|x64
+		{2350E402-0CB8-47D5-A3E8-9BB1CD5373DE}.Release|x64.Build.0 = Release|x64
+		{553E6D62-F245-482E-B00D-E42A5CC8E6DD}.Debug|x64.ActiveCfg = Debug|x64
+		{553E6D62-F245-482E-B00D-E42A5CC8E6DD}.Debug|x64.Build.0 = Debug|x64
+		{553E6D62-F245-482E-B00D-E42A5CC8E6DD}.Release|x64.ActiveCfg = Release|x64
+		{553E6D62-F245-482E-B00D-E42A5CC8E6DD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
